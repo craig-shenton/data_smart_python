@@ -1,0 +1,2 @@
+cd C:\Users\craigrshenton\Desktop\Dropbox\home\notebooks
+ipython nbconvert --config jekyll-post notebook.ipynb
